@@ -1,1 +1,1 @@
-# WYY-Notes
+This is a note on Python.
